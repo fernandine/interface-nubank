@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/ANDROID/PROJECTS/NubankClone/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.133" />
+        <entry key="..\:/ANDROID/PROJECTS/NubankClone/app/src/main/res/drawable/baseline_credit_card_24.xml" value="0.133" />
+        <entry key="..\:/ANDROID/PROJECTS/NubankClone/app/src/main/res/drawable/baseline_doacao.xml" value="0.133" />
+        <entry key="..\:/ANDROID/PROJECTS/NubankClone/app/src/main/res/drawable/baseline_favorite_border_24.xml" value="0.133" />
+        <entry key="..\:/ANDROID/PROJECTS/NubankClone/app/src/main/res/drawable/baseline_help_outline_24.xml" value="0.133" />
+        <entry key="..\:/ANDROID/PROJECTS/NubankClone/app/src/main/res/drawable/baseline_paid_20.xml" value="0.133" />
+        <entry key="..\:/ANDROID/PROJECTS/NubankClone/app/src/main/res/drawable/baseline_paid_24.xml" value="0.133" />
+        <entry key="..\:/ANDROID/PROJECTS/NubankClone/app/src/main/res/drawable/baseline_pix_24.xml" value="0.133" />
+        <entry key="..\:/ANDROID/PROJECTS/NubankClone/app/src/main/res/drawable/baseline_question_mark_20.xml" value="0.133" />
+        <entry key="..\:/ANDROID/PROJECTS/NubankClone/app/src/main/res/drawable/baseline_question_mark_24.xml" value="0.133" />
+        <entry key="..\:/ANDROID/PROJECTS/NubankClone/app/src/main/res/drawable/container_circle_icon.xml" value="0.2045" />
+        <entry key="..\:/ANDROID/PROJECTS/NubankClone/app/src/main/res/drawable/container_circulo.xml" value="0.2095" />
+        <entry key="..\:/ANDROID/PROJECTS/NubankClone/app/src/main/res/drawable/ic_eye.xml" value="0.133" />
+        <entry key="..\:/ANDROID/PROJECTS/NubankClone/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
+        <entry key="..\:/ANDROID/PROJECTS/NubankClone/app/src/main/res/drawable/ic_person_add.xml" value="0.133" />
+        <entry key="..\:/ANDROID/PROJECTS/NubankClone/app/src/main/res/drawable/ic_phone.xml" value="0.133" />
+        <entry key="..\:/ANDROID/PROJECTS/NubankClone/app/src/main/res/drawable/ic_phone_black.xml" value="0.133" />
+        <entry key="..\:/ANDROID/PROJECTS/NubankClone/app/src/main/res/drawable/ic_question.xml" value="0.2095" />
+        <entry key="..\:/ANDROID/PROJECTS/NubankClone/app/src/main/res/drawable/ic_user.xml" value="0.132" />
+        <entry key="..\:/ANDROID/PROJECTS/NubankClone/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/ANDROID/PROJECTS/NubankClone/app/src/main/res/layout/pagamento_item.xml" value="0.2682291666666667" />
+        <entry key="..\:/ANDROID/PROJECTS/NubankClone/app/src/main/res/layout/produto_item.xml" value="0.2682291666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
